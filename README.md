@@ -1,6 +1,8 @@
 # MicrochallengeIV
 
 
+![](../images/Encabezado_1.jpg)
+
 ## History of the compost part 3
 We use this Microchallenge IV to have the opportunity to finish and detail what is needed to complete our final design intervention of the Master´s.
 
@@ -58,7 +60,7 @@ Derivate of the process they have been emerging different needs and enquires abo
 * Commitment 3.- Prepare a guide and toolkit for testing the soil and comparing it with the compost, and evaluate the health of the soil by chemical, physical and biological testing.
    - Pending
 * Commitment 4.- Evaluation performance. Evaluate how well is working to make changes or adjustments, so in this part we are going to try the different sensor and empower people to use them and react from the data received.
-    - Pending 
+    - Pending
 
 #### Commitment 1
 From the review with Jonathan and the information collected, we have the feedback of a design of a bin with certain features and we add another features that we wanted to explore for making more efficient, friendly and that allow the appropriation of the technique.
