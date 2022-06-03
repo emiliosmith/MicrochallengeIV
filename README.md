@@ -99,11 +99,11 @@ The next day we have to measure and evaluate the temperature, and the amount of 
 
 ![](Images/compost_vf_1.gif)
 
-![](Images/compost_vf_2.gif)
+![](Images/compost_VF_4.gif)
 
 ![](Images/Compsot_2.jpg)
 
 
 
 # Moltes gràcies a:
-Edu, Dafni, Josep, Adai, Víctor, Oscar, Mikel, Santi, Jonathan, Fiorella and Andrea
+Edu, Dafni, Josep, Santi, Adai, Víctor, Oscar, Mikel, Jonathan, Fiorella and Andrea.
