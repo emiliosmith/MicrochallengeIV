@@ -1,7 +1,7 @@
 # MicrochallengeIV
 
 
-![](../images/Encabezado_1.jpg)
+![](Images/Encabezado_1.jpg)
 
 ## History of the compost part 3
 We use this Microchallenge IV to have the opportunity to finish and detail what is needed to complete our final design intervention of the Master´s.
@@ -33,14 +33,14 @@ While the final location was defined we made a design process in order to know m
 As part of the exploration of from waste to nutrient, we make a collection of discarded pallets in order to have the material to build the bin.
 
 
-![](../images/waste_1.gif)
+![](Images/waste_1.gif)
 
 ### Construction
 Some features were made by CNC with raw material but they were needed for having the exact structure and proportion, and to have a spare of parts in order to give them to the community for further composters.  
 
-![](../images/Rhino_2.jpg)
-![](../images/Rhino_1.jpg)
-![](../images/Compsot_3.jpg)
+![](Images/Rhino_2.jpg)
+![](Images/Rhino_1.jpg)
+![](Images/Compsot_3.jpg)
 
 
 
@@ -72,14 +72,14 @@ We use a design based on different chambers for production, resting and maturing
 
 With the lead we can test discarded material like tempered glass donated by Audrey and Gerda. Discarded Polycarbonate and fiberglass.
 
-![](../images/vidrio_2.jpg)
-![](../images/vidrio_1.jpg)
+![](Images/vidrio_2.jpg)
+![](Images/vidrio_1.jpg)
 
 This Thursday 02 we made the installation of the lid or cover, testing glass a polycarbonate and we made the first deposition to beginning the process in the processing chamber.
 The next day we have to measure and evaluate the temperature, and the amount of organic matter for having an optimal performance
 
-![](../images/Compsot_1.jpg)
-![](../images/Compsot_2.jpg)
+![](Images/Compsot_1.jpg)
+![](Images/Compsot_2.jpg)
 
 
 # Moltes gràcies a:
