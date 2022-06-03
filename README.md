@@ -31,20 +31,21 @@ While the final location was defined we made a design process in order to know m
 
 ### From waste to regenerate
 As part of the exploration of from waste to nutrient, we make a collection of discarded pallets in order to have the material to build the bin.
-Foto de la trima
-![](../images/doc 1.jpg)
+
+
+![](../images/waste_1.gif)
 
 ### Construction
 Some features were made by CNC with raw material but they were needed for having the exact structure and proportion, and to have a spare of parts in order to give them to the community for further composters.  
 
-![](../images/doc 1.jpg)
-Planos de cnc
-Foto de porudcto final
+![](../images/Rhino_2.jpg)
+![](../images/Rhino_1.jpg)
+![](../images/Compsot_3.jpg)
+
 
 
 The process of building the compost was long because the decision of the final place was long and we have to change places a couple of times. During this time we have the support of a person that was in charge of maintain the space
-Imágenes process
-![](../images/doc 1.jpg)
+
 
 #### For the challenge IV
 
@@ -71,14 +72,14 @@ We use a design based on different chambers for production, resting and maturing
 
 With the lead we can test discarded material like tempered glass donated by Audrey and Gerda. Discarded Polycarbonate and fiberglass.
 
-
-Render
-Planos cnc
-![](../images/doc 1.jpg)
+![](../images/vidrio_2.jpg)
+![](../images/vidrio_1.jpg)
 
 This Thursday 02 we made the installation of the lid or cover, testing glass a polycarbonate and we made the first deposition to beginning the process in the processing chamber.
 The next day we have to measure and evaluate the temperature, and the amount of organic matter for having an optimal performance
 
+![](../images/Compsot_1.jpg)
+![](../images/Compsot_2.jpg)
 
 
 # Moltes gràcies a:
