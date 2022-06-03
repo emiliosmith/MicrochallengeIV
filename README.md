@@ -24,6 +24,9 @@ We have to wait for the political process in order to everyone be agree with it.
 
 ![](Images/pol_1.jpg)
 
+
+![](Images/pol_2.gif)
+
 After that process was to define the place, because despite our explanation, the members still have misconceptions about the compost, like smell, animals and past bad experiences. This process takes us almost 3 weeks and at the end the final decision was taken for the most interested member of the community.
 
 
@@ -87,6 +90,8 @@ The next day we have to measure and evaluate the temperature, and the amount of 
 ![](Images/Compsot_1.jpg)
 
 ![](Images/compost_vf_1.gif)
+
+
 ![](Images/compost_vf_2.gif)
 
 ![](Images/Compsot_2.jpg)
