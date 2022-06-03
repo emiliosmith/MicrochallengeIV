@@ -52,6 +52,8 @@ Some features were made by CNC with raw material but they were needed for having
 
 The process of building the compost was long because the decision of the final place was long and we have to change places a couple of times. During this time we have the support of a person that was in charge of maintain the space
 
+![](Images/compost_v6.gif)
+
 
 ## For the challenge IV
 
