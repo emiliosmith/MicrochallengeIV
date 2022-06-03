@@ -20,12 +20,11 @@ We approach to them in order to ignite a participatory process in where I talked
 
 We have to wait for the political process in order to everyone be agree with it.
 
-![](Images/compost_vf_1.gif)
 
 ![](Images/pol_1.jpg)
 
 
-![](Images/pol_2.gif)
+![](Images/pol_3.gif)
 
 After that process was to define the place, because despite our explanation, the members still have misconceptions about the compost, like smell, animals and past bad experiences. This process takes us almost 3 weeks and at the end the final decision was taken for the most interested member of the community.
 
@@ -42,18 +41,19 @@ As part of the exploration of from waste to nutrient, we make a collection of di
 ![](Images/waste_1.gif)
 ![](Images/waste_2.jpg)
 
+
 ### Construction
 Some features were made by CNC with raw material but they were needed for having the exact structure and proportion, and to have a spare of parts in order to give them to the community for further composters.  
 
+![](Images/Rhino_3.jpg)
 
 ![](Images/Compsot_3.jpg)
-
 
 
 The process of building the compost was long because the decision of the final place was long and we have to change places a couple of times. During this time we have the support of a person that was in charge of maintain the space
 
 
-#### For the challenge IV
+## For the challenge IV
 
 
 The commitment I made with the community just for these weeks are:
@@ -71,7 +71,7 @@ Derivate of the process they have been emerging different needs and enquires abo
 
 ![](Images/sensor_1.jpg)
 
-#### Commitment 1
+### Commitment 1
 From the review with Jonathan and the information collected, we have the feedback of a design of a bin with certain features and we add another features that we wanted to explore for making more efficient, friendly and that allow the appropriation of the technique.
 
 
@@ -86,9 +86,11 @@ The separate doors allows to throw the waste without loosing to much heat and th
 
 ![](Images/Rhino_1.jpg)
 
+![](Images/vidrio_1.jpg)
+
 ![](Images/vidrio_2.jpg)
 
-![](Images/vidrio_1.jpg)
+
 
 This Thursday 02 we made the installation of the lid or cover, testing glass a polycarbonate and we made the first deposition to beginning the process in the processing chamber.
 The next day we have to measure and evaluate the temperature, and the amount of organic matter for having an optimal performance
@@ -96,7 +98,6 @@ The next day we have to measure and evaluate the temperature, and the amount of 
 ![](Images/Compsot_1.jpg)
 
 ![](Images/compost_vf_1.gif)
-
 
 ![](Images/compost_vf_2.gif)
 
