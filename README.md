@@ -45,8 +45,7 @@ As part of the exploration of from waste to nutrient, we make a collection of di
 ### Construction
 Some features were made by CNC with raw material but they were needed for having the exact structure and proportion, and to have a spare of parts in order to give them to the community for further composters.  
 
-![](Images/Rhino_2.jpg)
-![](Images/Rhino_1.jpg)
+
 ![](Images/Compsot_3.jpg)
 
 
@@ -81,7 +80,14 @@ We use a design based on different chambers for production, resting and maturing
 
 With the lead we can test discarded material like tempered glass donated by Audrey and Gerda. Discarded Polycarbonate and fiberglass.
 
+The separate doors allows to throw the waste without loosing to much heat and the separate windows would help us to exchange and test different materials.
+
+![](Images/Rhino_2.jpg)
+
+![](Images/Rhino_1.jpg)
+
 ![](Images/vidrio_2.jpg)
+
 ![](Images/vidrio_1.jpg)
 
 This Thursday 02 we made the installation of the lid or cover, testing glass a polycarbonate and we made the first deposition to beginning the process in the processing chamber.
