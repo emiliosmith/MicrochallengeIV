@@ -85,7 +85,12 @@ This Thursday 02 we made the installation of the lid or cover, testing glass a p
 The next day we have to measure and evaluate the temperature, and the amount of organic matter for having an optimal performance
 
 ![](Images/Compsot_1.jpg)
+
+![](Images/compost_vf_1.gif)
+![](Images/compost_vf_2.gif)
+
 ![](Images/Compsot_2.jpg)
+
 
 
 # Moltes gràcies a:
