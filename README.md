@@ -20,8 +20,10 @@ We approach to them in order to ignite a participatory process in where I talked
 
 We have to wait for the political process in order to everyone be agree with it.
 
+![](Images/compost_vf_1.gif)
 
-After that the second political process was to define the place, because despite our explanation, the members still have misconceptions about the compost, like smell, animals and past bad experiences. This process takes us almost 3 weeks and at the end the final decision was taken for the most interested member of the community.
+
+After that process was to define the place, because despite our explanation, the members still have misconceptions about the compost, like smell, animals and past bad experiences. This process takes us almost 3 weeks and at the end the final decision was taken for the most interested member of the community.
 
 
 The final place in which the compost has to be located was crucial for the production and the design that we wanted to test.
@@ -34,6 +36,7 @@ As part of the exploration of from waste to nutrient, we make a collection of di
 
 
 ![](Images/waste_1.gif)
+![](Images/waste_2.jpg)
 
 ### Construction
 Some features were made by CNC with raw material but they were needed for having the exact structure and proportion, and to have a spare of parts in order to give them to the community for further composters.  
