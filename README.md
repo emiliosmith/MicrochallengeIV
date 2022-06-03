@@ -22,6 +22,7 @@ We have to wait for the political process in order to everyone be agree with it.
 
 ![](Images/compost_vf_1.gif)
 
+![](Images/pol_1.jpg)
 
 After that process was to define the place, because despite our explanation, the members still have misconceptions about the compost, like smell, animals and past bad experiences. This process takes us almost 3 weeks and at the end the final decision was taken for the most interested member of the community.
 
